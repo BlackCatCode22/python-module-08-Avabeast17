@@ -1,6 +1,7 @@
 import streamlit as st
 from chatbot import generate_response
 
+
 st.set_page_config(page_title="Caprice's Chatbot")
 
 
